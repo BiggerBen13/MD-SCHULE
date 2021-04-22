@@ -1,3 +1,3 @@
 # md-Schule
 
-This is just a test, I want to see if I could backup my shit in a GithubRepo
+I now am using GitHub to store my school stuff, get over it!
