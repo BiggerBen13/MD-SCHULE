@@ -8,3 +8,5 @@ Es ist leichter, den Tod zu ertragen, als mit  der größten Tapferkeit die Schm
 Pudens sagt: "Ich will wissen, ob die Gallier sich ergeben haben oder ob sie sich verteidigt haben. Wer hatte das größere Ansehen, wer hatte das kleinere Ansehen?" Bellicus sagt: "Die Gallier begannen, durch die Worte von Critognatus bewegt, eine besonders heftige Schlacht, und sie kämpften mit größerer Tapferkeit als früher.
 Aber unsere Soldaten stießen entweder sehr energisch kämpfend die Truppen des Feindes ins Dorf zurück oder fingen sie auf der Flucht oder töteten sie.
 so wurde der Gewaltige Krieg beendet."
+TAMPIUS:Ihr erzählt komische Sachen von Sizillien über die Sitten der Germanen und über die Überheblichkeit der Gallier. Ihr habt Großbrittanien niemals kennengelernt. Ich jedenfalls bin mit einer Römischen Flotte übergesetzt.
+a
