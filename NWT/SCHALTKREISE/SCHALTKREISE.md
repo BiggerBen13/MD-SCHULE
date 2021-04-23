@@ -28,4 +28,4 @@ Ich vermute sehr stark, dass wenn ich den Schalter umlege, nichts passiert, da d
 ![Die Lampen und der Verbrauchte Strom ändern sich nicht](Schaltkreis3.png)
 
 Ich kann ihnen erneut nicht erklären, wie sich die Stromstärke auf die Lebenszeit der Batterie auswirkt, da ich keinerlei Berechnungen zu dem Thema finden konnte.
-wenn ich eine dritte Glühbirne dazu stecken würde, dann würde der Stromverbrauch be 0,05v liegen.
+wenn ich eine dritte Glühbirne dazu stecken würde, dann würde der Stromverbrauch bei 0,05v liegen.
