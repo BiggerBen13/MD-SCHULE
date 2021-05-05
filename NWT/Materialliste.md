@@ -1,0 +1,14 @@
+# MATERIALLISTE NWT
+2xF5
+1xF8
+2xA1
+1xB1
+30xC9
+30xC4
+4xB3
+4xB4
+1xPolWendeSchalter
+4xC8
+L5xC11
+2xE2
+2xAchse(150mm)
