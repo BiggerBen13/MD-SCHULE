@@ -41,5 +41,24 @@ Und rote Strahlen schoss des Abends Bahn.   a
 Auf allen Köpfen lag des Lichtes Traum.     b
 
 Kreuzreim
-### b) 
+### b)
 Jambus
+
+Bei dem Vorliegenden Gedicht handelt es sich um ein Sonett, das aus zwei Quartetten und zwei Terzetten besteht. Die Quartteten sind in Reimen verfasst.
+Bei den Terzetten variert der Reim. Das Metrum des Gedichts ist ein Jambus. Dieses Feste Metrum wird durch eine Inhaltliche Zäsur (z.B. V. 2/3, 9/10) aufgelockert. Der Aufbau sprigelt sich auch im Inhalt wieder. denn nach der zweiten strophe folgt eine Pause, die den Klang der Autobahn und der Natur verdeutet
+
+| Textbeleg | Wirkung,Deutung     |
+| :------------- | :------------- |
+| Wir sahen in der Enge/Unzählig Menschenströme | Beschreibt wie Dicht bevölkert und eng die Großstadt ist. |
+| Dem Riesensteinmeer zu | Beschreibt wie Langweilig und Grau die Großstadt ist |
+| Der Sonnenball hing groß am Himmelssaum | Stellt die Stadt als eine Bühne dar |
+
+b)
+Metapher
+
+Nr.6
+
+A: Das lyrische Ich in Heyms Gedicht träumt davon, sein Leben in der Natur und nicht in der Großstadt zu führen.
+
+Das letzte Bild wirkt eher positiv. Das Rot des Sonnenuntergangs lässt ein besonderes Licht aufscheinen.
+Der schöne Ausflug in die sommerliche Natur klingt noch nach. Die letzen Sonnenstrahlen erinnern die Rückkehrer in die Grau, lährmende Großstadt zurückzukehren.
