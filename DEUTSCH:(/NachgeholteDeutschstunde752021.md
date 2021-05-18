@@ -75,10 +75,10 @@ Ich mochte das Gedicht nicht. Zu viele Metaphern, ich musste das Gedicht 10x les
 
 ## S.150 Nr.1
 ### a)
-1. Strophe: Beschreibung des Verkehrs und des Großstadtlärms am Potsdamer Platz.
-2. Strophe: Beschreibung der Menschen die auf dem Potsdamer Platz hin und her eilen und ihre Interaktionen.
-3. Strophe: Beschreibung der Abreise aus Berlin, das nachts aufstehen und zum Flugzeug kommen.
-4. Strophe: Beschreibung der Sicht aus dem Flugzeug über Berlin und der Abreise.
+1. Strophe: Beschreibt die Schönheit Berlins am Tag.
+2. Strophe: Beschreibt Menschen die haufenweise über den Asphalt laufen um an ihr Ziel zu kommen.
+3. Strophe: Beschreibt die Hässlichkeit Berlins in der Nacht, die Einsamkeit
+4. Strophe: Vergleich von Berlin am Tag und Berlin in der Nacht
 ### b)
 Der Titel deutet einfach nur auf den Ort hin, an dem das Gedicht started.
 ## Nr.2
@@ -95,6 +95,23 @@ Strophe 3: ABBA
 Strophe 4: ABA
 ### d)
 Ja, man kann überall den Jambus erkennen.
+
+----
+
+## Einleitung:
+Textsorte : Sonett
+Name des Autors : Paul Boldt
+Titel des Gedichts : Auf der Terrasse des Café Jotsy
+Thema des Gedichts : Die zwei Seiten von Berlin(Tagsüber schön, Nachts Hässlich)
+## Überleitung
+## Hauptteil
+- Vorbringen der Schriftbilder
+- Erklärung  der Strophen
+- Reimschema
+- Zäsur
+- Nachweisen das es sich bei dem Gedicht um ein Sonett handelt.
+## Überleitung
+## Schluss
 
 
 ###### Copyright (c) Ben Julius Kirschniak All Rights Reserved.
